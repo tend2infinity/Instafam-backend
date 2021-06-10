@@ -9,7 +9,7 @@ The hosted website can be found [here](https://instafam12.herokuapp.com/)
 
 
 * __Backend:__ Nodejs, Expressjs, Jwt
-* __Databse:__ MongoDB
+* __Database:__ MongoDB
 * __Deployment:__ Heroku
 * __Tools:__ Git
 ***
@@ -38,3 +38,28 @@ These includes APIs ensuring following functionalities:
 * __/comment__ To comment upon a post
 * __/deletepost/:postId__ To delete a post posted by logged in user
 * __/deletecomment/:postId/:commentId__ To delete the comments posted by a logged in user
+
+***
+
+## Setting up the project
+### Backend
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/tend2infinity/Instafam-Backend
+   ```
+2. Install NPM packages
+
+   ```sh
+   npm install
+   ```
+3. Create a .env file using the template .env.template and add values accordingly.
+
+### Usage
+
+1.  Switch to the Backend folder and run the backend server
+
+    ```sh 
+    npm start 
+    ```
