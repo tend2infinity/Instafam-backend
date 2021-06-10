@@ -2,6 +2,8 @@
 Instafam is a social media web application. These are the backend files for Instafam project made using Node.js and Express.js.
 ### 🔗 Live Demo
 The hosted website can be found [here](https://instafam12.herokuapp.com/) 
+### Frontend repository
+Do check [this](https://github.com/tend2infinity/Instafam-frontend) out 
 ***
 ### Tech Stack and Concepts used:
 
